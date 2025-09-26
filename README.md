@@ -1,2 +1,2 @@
-# VitalOne-Healthcare-Service-Backend
-VitalOne is a robust, scalable backend service powering healthcare platforms. It centralizes patient data, appointment scheduling, and provider management through secure APIs. Built for reliability, it ensures HIPAA compliance while streamlining operations like billing and electronic health records (EHR) integration
+# Gatify: Society Management API
+Gatify is a comprehensive Society Management API backend that automates residential community operations. It streamlines maintenance tracking, visitor management, billing, and communication between residents and administration. This centralized, secure system enhances efficiency, transparency, and convenience for modern housing societies.
